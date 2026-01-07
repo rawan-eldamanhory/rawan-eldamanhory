@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Rawan 👋
 
-<!--
-**rawan-eldamanhory/rawan-eldamanhory** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Software Engineer** with experience across multiple technologies and platforms, with a strong foundation in backend development and software architecture.  
+My current focus is on **Python development**, applying proven engineering principles to build clean, scalable, and maintainable systems.
 
-Here are some ideas to get you started:
+## 🔧 Technical Skills
+- **Python:** Core, OOP, automation, API development
+- **Backend:** ASP.NET Core, RESTful APIs
+- **Desktop:** WinForms
+- **Databases:** SQL Server
+- **Architecture:** Clean Architecture, SOLID principles
+- **Game Development:** Unity
+- **Tools:** Git, GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Project Areas
+- 🐍 Python-based projects (primary focus)
+- 🌐 Backend and API development (.NET)
+- 🖥 Desktop applications (WinForms)
+- 🎮 Game development projects (Unity)
+- 🧪 Learning projects and technical experiments
+
+## 🚀 Current Focus
+Building scalable, maintainable software with a strong emphasis on Python development, backed by solid engineering fundamentals.
